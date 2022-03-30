@@ -1,9 +1,7 @@
-function about() {
-  return (
-    <div>
-      <h1>this is about page</h1>
-    </div>
-  );
+function About() {
+  return <div>Enter</div>;
 }
 
-export default about;
+export default About;
+
+

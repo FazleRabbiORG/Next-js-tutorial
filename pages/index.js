@@ -1,9 +1,10 @@
-function index() {
+function Home() {
   return (
     <div>
-      <h1>This is home Page</h1>
+      <h1>This is Next project home page</h1>
+      
     </div>
   );
 }
 
-export default index;
+export default Home;

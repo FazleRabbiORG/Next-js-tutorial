@@ -13,7 +13,6 @@ export async function getStaticPaths() {
 }
 
 function SingleBlog({ post }) {
-  console.log(post);
   return (
     <div>
       <h1>Single Blog</h1>
